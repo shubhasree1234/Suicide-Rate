@@ -11,9 +11,13 @@ Location: States and U.T's of India
 Parameters:
 
 a) Suicide causes
+
 b) Education status
+
 c) By means adopted
+
 d) Professional profile
+
 e) Social status
 
 Acknowledgements
